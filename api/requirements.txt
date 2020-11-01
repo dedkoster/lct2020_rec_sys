@@ -1,0 +1,11 @@
+aiohttp==3.7.2
+aiohttp-apispec==2.2.1
+uvloop==0.14.0
+aioboto3==8.0.5
+marshmallow-enum==1.5.1
+
+joblib==0.17.0
+numpy==1.19.3
+lightfm==1.15
+pandas==1.1.4
+xlrd==1.2.0
